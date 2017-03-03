@@ -1,0 +1,19 @@
+.code{
+    display: inline-block;
+    height: 115px;
+    width: 115px;
+    border: 1px solid white;
+    transition: ease 0.5s;
+}
+.texte{
+    text-align: center;
+    height: 115px;
+    line-height: 115px;
+    color: white;
+    opacity: 0;
+    transition: ease 0.5s;
+    cursor: pointer;
+}
+.texte:hover{
+    opacity: 1;
+}
