@@ -1,0 +1,26 @@
+#index{
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titre{
+    font-family: 'Clicker Script', cursive;
+    color: rgb(0, 5, 36);
+    font-size: 3em;
+}
+form{
+    padding: 1% 5%;
+
+}
+.form{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 12px;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 31%;
+    width: 500px;
+    height: 250px;
+    background-color: rgba(255, 255, 255, 0.69);
+}
